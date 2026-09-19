@@ -132,12 +132,13 @@ I'm an **AI Engineer** and final-year **BS Software Engineering** student at **I
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=danishbhi29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishbhi29&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+![Profile Views](https://komarev.com/ghpvc/?username=danishbhi29&label=Profile%20Views&color=2c5364&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/danishbhi29?label=Followers&style=for-the-badge&logo=github&color=203a43)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/danishbhi29&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=0f2027)
 
 </div>
 
